@@ -4,6 +4,8 @@
     font-family: 'Poppins', sans-serif
 }
 
+body{width:100%;}
+
 
 #navbar {
     display: flex;
