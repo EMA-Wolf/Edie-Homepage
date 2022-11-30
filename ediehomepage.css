@@ -4,9 +4,12 @@
     font-family: 'Poppins', sans-serif
 }
 
-/* body{
-    width:90%;margin:auto;min-width:600px;max-width:2000px
-} */
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
 
 
 #navbar {
